@@ -12,6 +12,7 @@ import ec.edu.intsuperior.controlador.Controlador;
  *
  * @author Santiago
  */
+//SSOLIS
 public class Loggin extends javax.swing.JFrame {
 
 
