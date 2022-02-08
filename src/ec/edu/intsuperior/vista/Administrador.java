@@ -12,6 +12,7 @@ import javax.swing.*;
  *
  * @author Santiago
  */
+//SSOLIS
 public class Administrador extends JFrame {
 
     Controlador controlador; //estoy creando una instancia (objeto) de la clase Controlador

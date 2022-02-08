@@ -9,6 +9,8 @@ package ec.edu.intsuperior.modelo;
  *
  * @author Santiago
  */
+
+//SSOLIS
 public class Login {
     private String user;
     private String password;

@@ -11,6 +11,7 @@ import ec.edu.intsuperior.controlador.Controlador;
  *
  * @author Santiago
  */
+//SSOLIS
 public class Estudiante extends javax.swing.JFrame {
 
     Controlador controlador;
